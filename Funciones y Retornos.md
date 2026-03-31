@@ -21,10 +21,13 @@ Existen tres escenarios principales para visualizar los datos procesados:
 
 ### A. Llamada con Retorno en el Programa Principal
 Es la forma más estándar. La función hace el cálculo, devuelve el valor y este se imprime fuera.
+
 > **Importante:** Si olvidas el `return` en una función de cálculo, al intentar imprimirla obtendrás `None` o errores de lógica.
+
 ```python
 resultado = calcular_promedio(vector)
-print(f"El promedio es: {resultado}")
+print(f"El promedio es: {resultado}")```
+
 # Buenas Prácticas: Visualización y Parámetros en Python
 
 ### B. Mostrar como Tabla (Paso de Parámetros)
@@ -58,4 +61,4 @@ Si buscas un valor máximo, lo ideal es retornar únicamente el **índice**. Est
 idx = buscar_maximo(mi_vector) 
 
 # El PPAL se encarga de la impresión final usando ese índice
-print(f"El valor máximo es {mi_vector[idx]} en la posición {idx}")
+print(f"El valor máximo es {mi_vector[idx]} en la posición {idx}")```
