@@ -24,10 +24,6 @@ Es la forma más estándar. La función hace el cálculo, devuelve el valor y es
 
 > **Importante:** Si olvidas el `return` en una función de cálculo, al intentar imprimirla obtendrás `None` o errores de lógica.
 
-python
-resultado = calcular_promedio(vector)
-print(f"El promedio es: {resultado}")
-
 # Buenas Prácticas: Visualización y Parámetros en Python
 
 ### B. Mostrar como Tabla (Paso de Parámetros)
@@ -54,11 +50,14 @@ La comunicación entre el Programa Principal (PPAL) y las funciones debe ser exp
 ### Ejemplo de Uso Correcto (Índice y Valor)
 Si buscas un valor máximo, lo ideal es retornar únicamente el **índice**. Esto permite que el PPAL decida cómo mostrar la información.
 
-python
+```python
 # --- Dentro del Programa Principal (PPAL) ---
 
 # La función busca y retorna solo el índice
 idx = buscar_maximo(mi_vector) 
 
 # El PPAL se encarga de la impresión final usando ese índice
-print(f"El valor máximo es {mi_vector[idx]} en la posición {idx}")```
+print(f"El valor máximo es {mi_vector[idx]} en la posición {idx}")
+
+resultado = calcular_promedio(vector)
+print(f"El promedio es: {resultado}")
