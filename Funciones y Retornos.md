@@ -24,9 +24,9 @@ Es la forma más estándar. La función hace el cálculo, devuelve el valor y es
 
 > **Importante:** Si olvidas el `return` en una función de cálculo, al intentar imprimirla obtendrás `None` o errores de lógica.
 
-```python
+python
 resultado = calcular_promedio(vector)
-print(f"El promedio es: {resultado}")```
+print(f"El promedio es: {resultado}")
 
 # Buenas Prácticas: Visualización y Parámetros en Python
 
@@ -54,7 +54,7 @@ La comunicación entre el Programa Principal (PPAL) y las funciones debe ser exp
 ### Ejemplo de Uso Correcto (Índice y Valor)
 Si buscas un valor máximo, lo ideal es retornar únicamente el **índice**. Esto permite que el PPAL decida cómo mostrar la información.
 
-```python
+python
 # --- Dentro del Programa Principal (PPAL) ---
 
 # La función busca y retorna solo el índice
