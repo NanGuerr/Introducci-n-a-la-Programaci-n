@@ -46,6 +46,26 @@ La comunicación entre el Programa Principal (PPAL) y las funciones debe ser exp
 
 * **`arreglo`**: Es el nombre del parámetro técnico dentro de la definición de la función.
 * **`arreglos[]`**: Es el vector real declarado antes del PPAL para ser enviado como parámetro.
+# Buenas Prácticas de Programación: Validación y Robustez
+
+Un software de calidad se distingue por su capacidad de manejar situaciones inesperadas sin interrumpir su ejecución.
+
+---
+
+## 3. Validación y Robustez
+
+### Pureza de la Función
+El principio de **responsabilidad única** dicta que una función debe estar diseñada para una sola tarea clara.
+* **Regla:** Si una función tiene un `return`, evita incluir un `print` interno (a menos que sea estrictamente para depuración o *debugging*).
+* **Concepto:** Una función debe **calcular** (devolver un valor) o **mostrar** (imprimir en pantalla), pero raramente ambas cosas a la vez. Esto facilita la reutilización del código.
+
+### Validación con `if`
+Es fundamental validar la integridad y el tipo de los datos antes de proceder con el procesamiento lógico:
+
+1. **Control de Errores:** La falta de validación es la causa principal de fallos críticos. Si un bloque `if` no verifica si los datos de entrada son correctos (por ejemplo, si un divisor es cero o si una lista está vacía), el programa sufrirá un **crash** al procesar entradas inválidas.
+2. **Prueba de Fuego:** Una técnica esencial de desarrollo es intentar "romper" el programa ingresando datos erróneos a propósito. Si el programa se detiene con un error del sistema, tu lógica de control debe ser reforzada.
+
+> **Nota:** Un código profesional no es aquel que simplemente funciona con datos correctos, sino aquel que sabe exactamente qué hacer y cómo responder cuando los datos son incorrectos.
 
 ### Ejemplo de Uso Correcto (Índice y Valor)
 Si buscas un valor máximo, lo ideal es retornar únicamente el **índice**. Esto permite que el PPAL decida cómo mostrar la información.
