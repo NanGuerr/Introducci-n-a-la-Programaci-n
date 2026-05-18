@@ -3,7 +3,39 @@
 </p>
 
 ```python
+"""Consigna: Sistema de Gestión de Ventas Mayoristas de Calzado
+Objetivo:
 
+Desarrollar un programa en Python para registrar y analizar las ventas mayoristas de una fábrica de calzado que comercializa dos productos: Sandalias (precio unitario: $2.500) y Alpargatas (precio unitario: $3.500).
+
+1. Entrada de Datos y Reglas de Negocio
+El sistema procesará facturas de venta de forma consecutiva. El ingreso de datos finalizará cuando el usuario introduzca el número de factura 0.
+
+Por cada factura se deben solicitar y validar los siguientes datos:
+
+Número de factura: Debe ser un valor entero positivo (> 0). Si es negativo, se debe exigir un reingreso. El valor 0 se reserva exclusivamente para terminar la carga.
+
+Cantidad comprada: Dado que se trata de un canal mayorista, la cantidad de unidades por factura debe ser estrictamente mayor a 50. De lo contrario, se mostrará un error y se pedirá una nueva cantidad.
+
+Tipo de producto: Se debe ingresar una letra para identificar el artículo vendido (único tipo de producto por factura): 'S' para Sandalias o 'A' para Alpargatas. El programa no debe distinguir entre mayúsculas y minúsculas y debe rechazar cualquier otra letra.
+
+2. Procesamiento de Datos
+A partir de las facturas válidas procesadas, el sistema debe llevar el control de:
+
+La cantidad total de unidades vendidas acumuladas para cada producto.
+
+Cuál es la factura que registró la mayor cantidad de unidades compradas (guardando tanto el número de factura como dicha cantidad máxima).
+
+3. Reportes Finales (Resultados)
+Al finalizar la carga de datos (ingreso de factura 0), y siempre que se haya procesado al menos una venta, el programa deberá calcular y mostrar:
+
+El monto total facturado (en pesos) correspondiente únicamente a la venta de Sandalias.
+
+El porcentaje que representa la cantidad de Alpargatas vendidas sobre el total general de unidades comercializadas por la fábrica.
+
+El número de factura en la que se despachó la máxima cantidad de unidades.
+
+Nota: Si no se llegó a registrar ninguna factura válida antes del cierre, el sistema simplemente deberá informar que 'No se registraron ventas'."""
 # Constantes de precios (en mayúsculas por convención para constantes)
 SANDALIAS = 2500
 ALPARGATAS = 3500
