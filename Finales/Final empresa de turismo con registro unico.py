@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final.jpg
+
 """Se quiere generar un programa para llevar estadisticas de reservas de viajes, de una empresa de turismo para la próxima temporada de verano, 
 Para ello se debe poder trabajar las siguientes acciones a partir de un memú de opciones. El sistema debe cargar:
 registrar ventas: Nro. de reserva, Tipo (Estadia, Viaje, Paquete), Precio Total, Adicionales (Texto libre, en caso que el comprador no quiera adicionales, se debe registra Sin Adicionales)
