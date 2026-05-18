@@ -95,7 +95,7 @@ print("\n--- Resultados de las ventas ---")
 if total_unidades > 0:
     # Total en monto de sandalias
     total_S = SANDALIAS * cont_S
-    print(f"El total en monto de las sandalias es: ${total_S:,.2f}")
+    print(f"El total en monto de las sandalias es: ${total_S:.2f}")
     
     # Porcentaje de alpargatas
     porcentaje_A = (cont_A / total_unidades) * 100
