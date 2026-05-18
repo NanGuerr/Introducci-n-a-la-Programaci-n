@@ -4,7 +4,7 @@
 
 ```python
 
-""" Lucía Fernández ha tomado recientemente el liderazgo de la firma familiar TecnoHogar Sur S.R.L., la cual ha operado
+"""Lucía Fernández ha tomado recientemente el liderazgo de la firma familiar TecnoHogar Sur S.R.L., la cual ha operado
 durante años con procedimientos manuales. Con el objetivo de optimizar la gestión interna, Lucía ha decidido implementar 
 un sistema informatizado requisitos del programa:
 # Ingreso y almacenamiento de datos en vectores: Nombre del modelo del producto (en formato textual). Precio unitario (debe ser mayor a cero).
