@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Carla.png" width="100%">
+</p>
+
+```python
+
 """Carla, queda seleccionada como gerente de una empresa de informática, se encuentra con la solicitud de su equipo de desarrollar 
 un sistema de registro de stock. Para abordar esta necesidad, le encomienda la tarea de crear un sistema utilizando los siguientes datos:
 Se debe almacenar la siguiente información:
