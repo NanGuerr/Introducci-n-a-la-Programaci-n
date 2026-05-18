@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Banner.png" width="100%">
+</p>
+
 # Introducción a la Programación - UP 🐍
 
 Este repositorio contiene una colección de algoritmos desarrollados en **Python** como resolución a las consignas de los exámenes de la materia **Programación I** de la **Universidad de Palermo (UP)**.
@@ -23,7 +27,7 @@ El proyecto está organizado según las diferentes instancias evaluativas:
 * **Lenguaje:** Python 3.3
 * **Entorno:** Visual Studio Code
 * **Conceptos aplicados:** * Estructuras secuenciales, condicionales y repetitivas.
-    * Manipulación de listas, tuplas y diccionarios.
+    * Manipulación de listas y arreglos.
     * Desarrollo de funciones y modularización.
     * Validación de datos de entrada.
 
