@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Logistica.png" width="100%">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/assets/Final%20Logistica.png" width="100%">
 </p>
 
 ```python
 
-""" Una empresa de logística necesita un sistema para gestionar el pesaje de sus productos antes de ser despachados. 
+"""Una empresa de logística necesita un sistema para gestionar el pesaje de sus productos antes de ser despachados. 
 Para ello, se solicita desarrollar un programa en Python que utilice vectores paralelos para almacenar el Nombre del Producto y su Peso (en kg).
 
 Tareas a realizar:
@@ -19,7 +19,7 @@ promedio calculado en el punto 2. Al finalizar, mostrar la tabla actualizada.
 e) Reemplazo Crítico: Implementar una función que busque productos con un peso superior a 15 kg. En esos casos, se debe reemplazar el nombre del
 producto por la cadena "REEMPLAZADO" y su peso por el valor 999.
 f) Ordenamiento Logístico: Crear una función que ordene ambos vectores de manera ascendente (de menor a mayor) basándose en el peso, 
-utilizando el método de intercambio (Burbuja). Mostrar la tabla final resultante. """
+utilizando el método de intercambio (Burbuja). Mostrar la tabla final resultante."""
 
 #--- FUNCIONES ---
 def cargar_productos(arr_nombres, arr_pesos):
