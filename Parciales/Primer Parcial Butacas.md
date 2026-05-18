@@ -3,7 +3,34 @@
 </p>
 
 ```python
+"""Desarrollar un programa en Python que permita procesar y analizar los datos de ocupación de un complejo cinematográfico compuesto por exactamente 15 salas.
 
+1. Entrada de Datos y Validaciones
+El programa debe solicitar para cada una de las 15 salas los siguientes datos, aplicando sus respectivas validaciones mediante bucles de re-intento:
+
+Número de sala: Debe ser un número entero mayor o igual a 0.
+
+Cantidad total de butacas: Debe ser un número entero mayor o igual a 1.
+
+Cantidad de butacas vendidas: Debe ser un número entero mayor o igual a 0.
+
+2. Procesamiento por Sala (Durante la carga)
+A medida que se ingresan los datos de cada sala, el sistema debe:
+
+Calcular y mostrar inmediatamente el porcentaje de ocupación (butacas vendidas sobre el total de capacidad) de esa sala, formateado con un decimal.
+
+Evaluar e identificar si la sala se encuentra completa (100% de éxito en ventas).
+
+3. Resultados Finales
+Una vez finalizada la carga de las 15 salas, el programa deberá emitir un reporte final con los siguientes indicadores:
+
+El número de la sala que registró la menor cantidad de entradas vendidas.
+
+El número de la sala que registró la mayor cantidad de entradas vendidas.
+
+La cantidad total de salas que se llenaron por completo. En caso de que ninguna haya alcanzado el 100% de su capacidad, se debe mostrar un mensaje aclaratorio.
+
+El promedio general de ocupación de todo el cine, expresado en porcentaje (total de butacas vendidas en el complejo sobre el total de butacas disponibles)."""
 salas_comp = 0
 total_butacas = 0
 total_vendidas = 0
