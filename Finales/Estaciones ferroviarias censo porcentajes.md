@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Ministerio.png" width="100%">
+</p>
+
+```python
+
 """Desarrollar un programa en Python para cada ejercicio utilizando funciones:  
 El Ministerio de Salud le solicitó realizar un programa para llevar adelante un censo de salud. Para ello se tomaron los siguientes datos: peso, edad y sexo. 
 Se realizan dos encuestas, y los datos fueron tomados en dos estaciones ferroviarias: Retiro y Constitución.  
