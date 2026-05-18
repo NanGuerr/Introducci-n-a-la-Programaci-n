@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Carla.png" width="100%">
-</p>
+</p> 
 
 ```python
 
