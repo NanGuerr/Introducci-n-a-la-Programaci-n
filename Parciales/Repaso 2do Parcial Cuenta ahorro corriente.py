@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Pacientes.png" width="100%">
+</p>
+
+```python
+
 """Desarrollar un programa donde se ingresa el nombre y apellido, el saldo de la caja de ahorro
 y el saldo de la caja de cuenta corriente de los clientes de un banco,
 hasta que el nombre y apellido sea FIN. Calcular y mostrar:
