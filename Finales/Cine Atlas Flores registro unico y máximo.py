@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Cine.png" width="100%">
+</p>
+
+```python
+
 """El cine Atlas de Flores decide digitalizar el control de ventas de entradas para las películas infantiles que estarán en cartelera
 durante las vacaciones de invierno. Para la venta de las entradas se pide al usuario que ingrese la siguiente información:
   Cantidad de entradas. (valor entero)
