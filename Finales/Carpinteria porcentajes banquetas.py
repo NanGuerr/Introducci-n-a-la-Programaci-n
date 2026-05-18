@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20carpinteria.png" width="100%">
+</p>
+
+```python
+
 """La carpintería "La banqueta loca" quiere llevar el registro de los pedidos del mes, para ello se ingresan:
 día entre 1 y 31 cantidad no negativa
 código cliente entre 10 y 15
