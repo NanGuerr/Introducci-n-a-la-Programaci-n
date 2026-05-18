@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Logistica.png" width="100%">
+</p>
+
+```python
+
 """ Una empresa de logística necesita un sistema para gestionar el pesaje de sus productos antes de ser despachados. 
 Para ello, se solicita desarrollar un programa en Python que utilice vectores paralelos para almacenar el Nombre del Producto y su Peso (en kg).
 
