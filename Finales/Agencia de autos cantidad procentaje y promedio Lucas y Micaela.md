@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Agencia.png" width="100%">
+</p>
+```python
 """"Se requiere realizar la solución al siguiente problema:Lucas y Micaela, poseen una agencia de venta de autos, y solicitan a ud. 
 la realización de un programa informático. Puntualmente el sistema que le solicitan es de registro de pedidos. 
 Este registro se realiza al finalizar el día. Se cargan los datos de las solicitudes HASTA QUE el modelo sea "FIN".
