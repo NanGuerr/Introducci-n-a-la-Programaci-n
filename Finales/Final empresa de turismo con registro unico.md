@@ -1,4 +1,6 @@
-https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final.jpg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final.jpg" width="100%">
+</p>
 
 """Se quiere generar un programa para llevar estadisticas de reservas de viajes, de una empresa de turismo para la próxima temporada de verano, 
 Para ello se debe poder trabajar las siguientes acciones a partir de un memú de opciones. El sistema debe cargar:
