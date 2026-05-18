@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Veterinaria.png" width="100%">
+</p>
+
+```python
+
 """Se requiere un sistema para registrar los turnos de un dia para una veterinaria. 
 La misma atiende de 9 a 19hs, los turnos son uno por hora.
 
