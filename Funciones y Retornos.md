@@ -2,7 +2,7 @@
 
 Esta guía resume los criterios para decidir cuándo una función debe retornar valores, cómo mostrar datos y el manejo correcto de parámetros.
 
----
+
 
 ## 1. ¿Cuándo usar `return` vs. cuándo no? 🎯
 
@@ -13,7 +13,7 @@ La decisión depende de la **responsabilidad** de la función:
 * **🛠️ No uses `return` (Procedimientos):** Cuando la función realiza una acción de modificación o carga.
     * *Ejemplos:* Cargar datos en un vector 📥, ordenar un arreglo (sorting) 🔀 o limpiar una pantalla 🧹.
 
----
+
 
 ## 2. Formas de Mostrar Información 🖥️
 
@@ -35,7 +35,7 @@ Se recomienda únicamente en dos situaciones:
 2. Cuando se pide un **reporte detallado** o un "Retorno múltiple visual".
    * *Ejemplo:* *"Calcular el porcentaje de cada uno de los tipos de elementos en un vector"*.
 
----
+
 
 ## 3. Reglas de Oro para un Código Limpio ✨
 
@@ -45,7 +45,7 @@ La comunicación entre el Programa Principal (PPAL) y las funciones debe ser exp
 * **`arreglo`**: Es el nombre del parámetro técnico dentro de la definición de la función. ⚙️
 * **`arreglos[]`**: Es el vector real declarado antes del PPAL para ser enviado como parámetro. 📦
 
----
+
 
 ## 4. Validación y Robustez 🛡️
 
