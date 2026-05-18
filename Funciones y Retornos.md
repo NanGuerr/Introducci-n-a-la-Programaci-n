@@ -2,8 +2,6 @@
 
 Esta guía resume los criterios para decidir cuándo una función debe retornar valores, cómo mostrar datos y el manejo correcto de parámetros.
 
----
-
 ## 1. ¿Cuándo usar `return` vs. cuándo no?
 
 La decisión depende de la **responsabilidad** de la función:
@@ -12,8 +10,6 @@ La decisión depende de la **responsabilidad** de la función:
     * *Ejemplos:* Calcular un promedio, buscar el máximo/mínimo, obtener un porcentaje o realizar búsquedas.
 * **No uses `return` (Procedimientos):** Cuando la función realiza una acción de modificación o carga.
     * *Ejemplos:* Cargar datos en un vector, ordenar un arreglo (sorting) o limpiar una pantalla.
-
----
 
 ## 2. Formas de Mostrar Información
 
@@ -24,7 +20,7 @@ Es la forma más estándar. La función hace el cálculo, devuelve el valor y es
 
 > **Importante:** Si olvidas el `return` en una función de cálculo, al intentar imprimirla obtendrás `None` o errores de lógica.
 
-# Buenas Prácticas: Visualización y Parámetros en Python
+## Buenas Prácticas: Visualización y Parámetros en Python
 
 ### B. Mostrar como Tabla (Paso de Parámetros)
 Se utiliza para visualizar estructuras de datos completas, como **arreglos o matrices**. 
@@ -37,8 +33,6 @@ Se recomienda únicamente en dos situaciones:
 2. Cuando se pide un **reporte detallado** o un "Retorno múltiple visual".
    * *Ejemplo:* "Calcular el porcentaje de cada uno de los tipos de elementos en un vector".
 
----
-
 ## 2. Reglas de Oro para un Código Limpio
 
 ### El Principio de Parámetros No Globales
@@ -49,8 +43,6 @@ La comunicación entre el Programa Principal (PPAL) y las funciones debe ser exp
 # Buenas Prácticas de Programación: Validación y Robustez
 
 Un software de calidad se distingue por su capacidad de manejar situaciones inesperadas sin interrumpir su ejecución.
-
----
 
 ## 3. Validación y Robustez
 
