@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Pacientes.png" width="100%">
+</p>
+
+```python
+
 # Constantes de precios (en mayúsculas por convención para constantes)
 SANDALIAS = 2500
 ALPARGATAS = 3500
