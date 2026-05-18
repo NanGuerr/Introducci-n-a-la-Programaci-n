@@ -1,4 +1,10 @@
-# Autor: Nancy Guerrero
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Pacientes.png" width="100%">
+</p>
+
+```python
+
+# Autor: NanGuerr
 # Ejercicio: Primer Parcial
 # Fecha: 13/10/2025
 """Se pide crear un código en Python para el siguiente problema, se ingresan los siguientes datos de los alumnos de un terciario:
