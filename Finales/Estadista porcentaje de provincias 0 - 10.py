@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Estadista.png" width="100%">
+</p>
+
+```python
+
 '''
 Para realizar una estadística la empresa "El estadista", le pide desarrollar un sistema
 que procese los datos solicitados en una encuesta. Para ello se carga la edad, 
