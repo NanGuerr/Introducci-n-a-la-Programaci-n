@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Pacientes.png" width="100%">
+</p>
+
+```python
+
 salas_comp = 0
 total_butacas = 0
 total_vendidas = 0
