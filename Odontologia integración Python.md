@@ -1,4 +1,10 @@
-"""Actividad Ejercicios de integracion de Python. Nancy Guerrero.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Pacientes.png" width="100%">
+</p>
+
+```python
+
+"""Actividad Ejercicios de integracion de Python. NanGuerr.
 Este programa procesa los datos de 23 pacientes atendidos por un dentista en un día.
 Se registran nombre, número de socio, horario y tratamiento realizado.
 Se calcula el promedio de pacientes con ortodoncia, cantidad atendidos antes de las 16 hs,
