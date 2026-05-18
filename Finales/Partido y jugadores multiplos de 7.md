@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Partido.png" width="100%">
+</p>
+
+```python
+
 """Crear dos arreglos A y B(partidos /jugadores )
 se cargan valores hasta que un jugador se ingrese FIN
 -Mostrar el nombre el nombre del jugador que jugo mas partidos y la cantidad de partidos jugados 
