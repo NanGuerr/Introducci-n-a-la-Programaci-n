@@ -4,8 +4,6 @@ Este repositorio contiene una colección de algoritmos desarrollados en **Python
 
 El objetivo de este proyecto es servir como registro de aprendizaje y guía de consulta para la resolución de problemas lógicos, estructuras de datos y algoritmos fundamentales evaluados en las distintas instancias de examen.
 
----
-
 ## 📑 Contenido del Repositorio
 
 El proyecto está organizado según las diferentes instancias evaluativas:
@@ -18,8 +16,6 @@ El proyecto está organizado según las diferentes instancias evaluativas:
     * **FINAL II:** Manejo de menú, estructuras con arreglos y lógica.
     * **FINAL III (En Proceso) 🚧:** Implementaciones actuales y ejercicios complejos de cierre.
 
----
-
 ## 🛠️ Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.x
@@ -28,8 +24,6 @@ El proyecto está organizado según las diferentes instancias evaluativas:
     * Manipulación de listas, tuplas y diccionarios.
     * Desarrollo de funciones y modularización.
     * Validación de datos de entrada.
-
----
 
 ## 🚀 Cómo utilizar este repositorio
 
