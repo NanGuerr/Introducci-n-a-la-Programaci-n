@@ -20,7 +20,7 @@ El proyecto está organizado según las diferentes instancias evaluativas:
 
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,github)](https://skillicons.dev)
 
-* **Lenguaje:** Python 3.x
+* **Lenguaje:** Python 3.3
 * **Entorno:** Visual Studio Code
 * **Conceptos aplicados:** * Estructuras secuenciales, condicionales y repetitivas.
     * Manipulación de listas, tuplas y diccionarios.
