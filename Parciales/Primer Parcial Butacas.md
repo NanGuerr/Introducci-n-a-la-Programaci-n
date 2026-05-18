@@ -31,46 +31,48 @@ sala_menor = 0
 
 # Procesamos las 15 salas en un solo bucle
 for i in range(15):
-  num_sala = int(input("Ingrese el numero de sala: \t"))
-  while num_sala < 0:
-    num_sala = int(input("Error. Ingrese el numero de sala: \t"))
-    
-  cant_butacas = int(input("Ingrese la cantidad total de butacas: \t"))
-  while cant_butacas < 1:
-    cant_butacas = int(input("Error. Ingrese la cantidad total de butacas: \t"))
-    
-  cant_vendidas = int(input("Ingrese la cantidad de butacas vendidas: \t"))
-  while cant_vendidas < 0:
-    cant_vendidas = int(input("Error. Ingrese la cantidad de butacas vendidas: \t"))
-    
+    num_sala = int(input("Ingrese el numero de sala: \t"))
+    while num_sala < 0:
+        num_sala = int(input("Error. Ingrese el numero de sala: \t"))
+        
+    cant_butacas = int(input("Ingrese la cantidad total de butacas: \t"))
+    while cant_butacas < 1:
+        cant_butacas = int(input("Error. Ingrese la cantidad total de butacas: \t"))
+        
+    cant_vendidas = int(input("Ingrese la cantidad de butacas vendidas: \t"))
+    # BONUS: Validamos que las vendidas no superen a las butacas totales de la sala
+    while cant_vendidas < 0 or cant_vendidas > cant_butacas:
+        cant_vendidas = int(input("Error. Cantidad inválida. Ingrese las butacas vendidas: \t"))
+        
     # Acumuladores
-  total_butacas += cant_butacas
-  total_vendidas += cant_vendidas
-    
-  if i == 0:
-    mayorcant_vendidas = cant_vendidas
-    sala_mayor = num_sala
-    menorcant_vendidas = cant_vendidas
-    sala_menor = num_sala  # Agregar inicialización
-    
+    total_butacas += cant_butacas
+    total_vendidas += cant_vendidas
+        
+    if i == 0:
+        mayorcant_vendidas = cant_vendidas
+        sala_mayor = num_sala
+        menorcant_vendidas = cant_vendidas
+        sala_menor = num_sala  
+        
     # Buscar mínimo
-  if cant_vendidas < menorcant_vendidas:
-    menorcant_vendidas = cant_vendidas
-    sala_menor = num_sala
-   
+    if cant_vendidas < menorcant_vendidas:
+        menorcant_vendidas = cant_vendidas
+        sala_menor = num_sala
+       
     # Buscar máximo
-  if cant_vendidas > mayorcant_vendidas:
-    mayorcant_vendidas = cant_vendidas
-    sala_mayor = num_sala
-    
+    if cant_vendidas > mayorcant_vendidas:
+        mayorcant_vendidas = cant_vendidas
+        sala_mayor = num_sala
+        
     # Calcular porcentaje de la sala
-  porce_vendidas = (cant_vendidas * 100) / cant_butacas
-  print(f"El porcentaje de butacas vendidas de la sala es: {porce_vendidas:.1f}%\n")
-    
+    porce_vendidas = (cant_vendidas * 100) / cant_butacas
+    print(f"El porcentaje de butacas vendidas de la sala es: {porce_vendidas:.1f}%\n")
+        
     # Verificar si la sala está completa
-  if cant_butacas == cant_vendidas:
-    salas_comp += 1
+    if cant_butacas == cant_vendidas:
+        salas_comp += 1
 
+# --- Bloque final de reportes (Fuera del bucle) ---
 print("Finalizo el ingreso de datos\n")        
 print("--------------Resultados finales--------------------------\n")
 print(f"El numero de sala con menor cantidad de butacas vendidas es: {sala_menor}\n")
@@ -82,5 +84,4 @@ else:
 
 promedio_vendidas = (total_vendidas * 100) / total_butacas
 print(f"El promedio de butacas vendidas de todo el cine es: {promedio_vendidas:.1f}%\n")
-
-print(f"El numero de sala con mayor capacidad de butacas vendidas es: {sala_mayor}\n")
+print(f"El numero de sala con mayor cantidad de butacas vendidas es: {sala_mayor}\n")
