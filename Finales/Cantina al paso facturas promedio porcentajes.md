@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Cantinaa.png" width="100%">
+</p>
+
+```python
+
 """La cantina Al paso vende comidas rápidas y requiere un sistema para registrar las operaciones del día. El menú que ofrece es:
 Tortilla de papas ($2500), Guiso de lentejas ($3750), Hamburguesa ($5600), Agua ($1200) y Gaseosa ($1500).
 A. Mostrar Facturas, B. Factura con el máximo en ventas, C. Promedio de comidas, D. Porcentajes de bebidas.
