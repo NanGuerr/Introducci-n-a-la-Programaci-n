@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/assets/Final%20Febrero.png" width="100%">
+</p>
+
+```python
+
 """
 Se quiere generar un sistema de software que permita registrar las capacidades de supervivencia para un reality show en la selva amazónica. 
 Para lo cual, a partir del uso de un menú, se podrán realizar las siguientes acciones del sistema:
