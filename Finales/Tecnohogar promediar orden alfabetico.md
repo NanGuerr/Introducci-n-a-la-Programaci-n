@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%2TecnoHogar.png" width="100%">
+</p>
+
+```python
+
 """ Lucía Fernández ha tomado recientemente el liderazgo de la firma familiar TecnoHogar Sur S.R.L., la cual ha operado
 durante años con procedimientos manuales. Con el objetivo de optimizar la gestión interna, Lucía ha decidido implementar 
 un sistema informatizado requisitos del programa:
