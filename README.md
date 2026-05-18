@@ -36,3 +36,6 @@ El proyecto está organizado según las diferentes instancias evaluativas:
 1. **Clonar el proyecto:**
    ```bash
    git clone [https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n.git](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n.git)
+### 🛠️ Tecnologías Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,github)](https://skillicons.dev)
