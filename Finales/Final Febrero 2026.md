@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/assets/Final%20Febrero.png" width="100%">
+  <img src="https://raw.githubusercontent.com/NanGuerr/https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/assets/Final%20Reality.png" width="100%">
 </p>
 
 ```python
