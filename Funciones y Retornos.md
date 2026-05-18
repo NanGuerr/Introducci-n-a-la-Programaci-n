@@ -1,4 +1,6 @@
-Esta guía resume los criterios para decidir cuándo una función debe retornar valores, cómo mostrar datos y el manejo correcto de parámetros. 🚀
+# Guía de Buenas Prácticas: Funciones y Retornos en Python 🚀
+
+Esta guía resume los criterios para decidir cuándo una función debe retornar valores, cómo mostrar datos y el manejo correcto de parámetros.
 
 ---
 
