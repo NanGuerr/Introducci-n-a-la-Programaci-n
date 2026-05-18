@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Finales/Final%20Entradas.png" width="100%">
+</p>
+
+```python
+
 """Se quiere realizar un control de ventas de entradas para el cine. Hay 3 tipos de entradas y precios a la venta: 2D: ARS 2000   3D: ARS 2700   4D: ARS 3500
 El sistema debe ofrecer un menú con las siguientes opciones:
 1)  Cargar entradas
