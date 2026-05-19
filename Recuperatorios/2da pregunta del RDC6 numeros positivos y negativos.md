@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 """Pregunta 2 45 puntos
 Ingresar 6 números enteros y cargar un arreglo con un número positivo y otro negativo en ese orden.
 Si no hubiese números negativos o positivos , poner ceros en esas posiciones.
