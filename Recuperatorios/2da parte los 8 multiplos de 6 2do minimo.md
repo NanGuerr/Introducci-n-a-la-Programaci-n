@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 """2. Ingresar valores numéricos enteros hasta cargar un arreglo con:
 los 8 primerosnumeros pares multiplos de 3. 
 A. Mostrarlo.
