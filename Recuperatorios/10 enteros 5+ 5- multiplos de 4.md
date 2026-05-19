@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 # Arreglo con 10 números 5 positivos y 5.
 """ Cargar y mostrar un arreglo con los primeros 5 úmeros positivos y los últimos 5 negativos. Calcular y mostrar:
 a) El promedio de los números negativos.
