@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 '''
 leer números enteros hasta que el número sea cero y cargar un arreglo con los 6 primeros número positivos y los 6 primeros números negativos
 ingresados. Si no hubiese números negativos o positivos para cargar en el arreglo, mostrar una leyenda y se termina el ejercicio. 
