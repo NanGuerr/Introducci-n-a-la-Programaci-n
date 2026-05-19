@@ -5,7 +5,7 @@
 ```python
 
 #Segundo Parcial Nancy Guerrero
-"""desarrollar un programa que cumpla con las siguientes funciones:
+"""Desarrollar un programa que cumpla con las siguientes funciones:
 Requisitos del programa:
 -Ingreso y almacenamiento de datos en vectores:
     Nombre del modelo del producto (en formato textual).
