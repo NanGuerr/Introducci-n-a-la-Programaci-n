@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 """En base a los conceptos vistos en el módulo, debés realizar el siguiente ejercicio: 
 Ingresar números enteros hasta que sea dicho número cero y cargar un arreglo con aquellos números múltiplos de 5. 
 Mostrar el arreglo y calcular:
