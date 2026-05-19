@@ -4,7 +4,7 @@
 
 ```python
 
-#Segundo Parcial Modelo 2 del jueves
+#Segundo Parcial RECUPERATORIO
 """La realización de un sistema con los datos que se brindan a continuación. Se leen los siguientes datos:
 -Nombre del clientes (Finaliza cuando se coloca "FIN")
 -Nombre del contador asignado
