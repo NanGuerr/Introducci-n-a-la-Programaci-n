@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Recuperatorios/assets/Recuperatorio%20Multiplos%20de%207%20y%20de%203.png" width="100%">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Recuperatorios/assets/Recuperatorio%208%20m%C3%BAltiplos%20de%206%202do%20minimo.png" width="100%">
 </p>
 
 ```python
