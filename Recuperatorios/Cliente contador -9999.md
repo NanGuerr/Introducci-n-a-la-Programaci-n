@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Recuperatorios/assets/Recuperatorio%20Cliente%20contador%20-9999.png" width="100%">
 </p>
 
 ```python
 
 #Segundo Parcial Modelo 2 del jueves
-"""1. La realización de un sistema con los datos que se brindan a continuación. Se leen los siguientes datos:
+"""La realización de un sistema con los datos que se brindan a continuación. Se leen los siguientes datos:
 -Nombre del clientes (Finaliza cuando se coloca "FIN")
 -Nombre del contador asignado
 -Importe obtenido como ganancia anual (debe ser mennor o igual a 0), en ese caso se debe solicitar el valor nuevamente.
