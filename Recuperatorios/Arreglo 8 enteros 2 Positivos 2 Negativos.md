@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 """ Pregunta 2 Ingresar números hasta cargar un arreglo con 8 números de la siguiente manera: 
 dos números positivos y luego dos números negativos, en ese orden.
 Por ejemplo: Se ingresan 1 2 3 4 5 6 -10 -20 4 5 6 -100 5 6 -8
