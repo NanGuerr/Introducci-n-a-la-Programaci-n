@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 """Pregunta 1 55 puntos
 Alimentos para mascotas y le solicitan un programa informatico para registro de ventas. Este registro se realiza al finalizar el día.
 1- Se cargan facturas HASTA QUE el número de factura sea 0. (EL NUMERO DE FACTURA NO PUEDE SER NEGATIVO). 
