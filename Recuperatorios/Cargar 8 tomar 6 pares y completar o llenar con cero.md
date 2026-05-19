@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 # Segunda parte del recuperatorio
 """ Leer 8 numeros enteros y cargar un arreglo con los primeros 6 numeros pares.
 Si no hay numeros pares, cargarlos con ceros. Y si no llegan a ser 6, completar hasta el sexto
