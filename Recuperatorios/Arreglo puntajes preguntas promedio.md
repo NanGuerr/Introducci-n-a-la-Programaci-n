@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 """Se quiere llevar el control de preguntas para un nuevo juego. Para lo que se debe generar un sistema que cumpla con las 
 siguientes características.
 Cargar preguntas y sus puntajes (se deben usar arreglos paralelos)
