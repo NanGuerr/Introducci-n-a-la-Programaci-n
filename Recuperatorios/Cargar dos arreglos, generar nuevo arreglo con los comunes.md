@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 # interseccion de arreglos paralelos
 "Ingrese numeros y cargar dos arreglos, generar nuevo arreglo con los comunes"
 
