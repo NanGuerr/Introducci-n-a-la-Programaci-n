@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/Introducci-n-a-la-Programaci-n/refs/heads/main/Parciales/assets/Parcial%20Calzado.png" width="100%">
+</p>
+
+```python
+
 #Segundo Parcial Nancy Guerrero
 """desarrollar un programa que cumpla con las siguientes funciones:
 Requisitos del programa:
